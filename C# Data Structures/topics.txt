@@ -2,4 +2,6 @@ Arrays
 Arraylist
 Dictionary
 Hashset
+Stack 
+Queue
 Linkedlist
