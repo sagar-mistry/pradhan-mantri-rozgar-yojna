@@ -1,0 +1,2 @@
+Generic Repository (DotNetCoreMicroservice_ZeroToHero)
+CQRS using MediatR (DotNetCoreMicroservice_ZeroToHero)
