@@ -1,2 +1,3 @@
 Generic Repository (DotNetCoreMicroservice_ZeroToHero)
 CQRS using MediatR (DotNetCoreMicroservice_ZeroToHero)
+Pub-Sub Design using Redis Channels
